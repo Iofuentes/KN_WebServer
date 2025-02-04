@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "King navi",
+    "description": "",
+    "home_page_url": "https://github.com/Iofuentes/KN_WebServer",
+    "feed_url": "https://github.com/Iofuentes/KN_WebServer/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ivan Fuentes"
+    },
+    "items": [
+    ]
+}
