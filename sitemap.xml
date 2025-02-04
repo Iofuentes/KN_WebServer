@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/Iofuentes/KN_WebServer/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://kingnavi.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/Iofuentes/KN_WebServer/</loc>
+<loc>https://kingnavi.com/</loc>
 </url>
 <url>
-<loc>https://github.com/Iofuentes/KN_WebServer/past-projects.html</loc>
+<loc>https://kingnavi.com/past-projects.html</loc>
 <lastmod>2025-02-04T12:44:53-05:00</lastmod>
 </url>
 </urlset>
